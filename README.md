@@ -1,4 +1,8 @@
 # Proyek_Analisis_Data
+## Overview
+
+This project involves analyzing and visualizing public e-commerce data. It includes code for data wrangling, exploratory data analysis (EDA), and a Streamlit dashboard for interactive exploration. The goal is to gain insights from an E-Commerce Public Dataset.
+
 ## Setup Environment - Anaconda
 
 ```bash
