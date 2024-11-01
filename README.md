@@ -23,4 +23,4 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 ## How it looks
-![Loading Animation](https://raw.githubusercontent.com/willkur/proyek_analisis_data/refs/heads/main/Streamlit.gif)
+![Loading Animation]()
